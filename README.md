@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  ⭐ <i>Thanks for stopping by! Feel free to explore my repositories or visit my <a href="https://YOUR_WEBSITE_URL"><b>Website</b></a>.</i>
+  ⭐ <i>Thanks for stopping by! Feel free to explore my repositories or visit my <a href="https://taizercodecrafter.com"><b>Website</b></a>.</i>
 </p>
