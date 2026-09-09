@@ -2,7 +2,7 @@
 
   <!-- Profile Image -->
   <a href="https://YOUR_WEBSITE_URL" target="_blank">
-    <img src="./profile.png" alt="Profile Picture" width="145" height="145" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;" />
+    <img src="./1777219937324.jpg" alt="Profile Picture" width="145" height="145" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;" />
   </a>
 
   <!-- Main Title -->
